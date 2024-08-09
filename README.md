@@ -10,7 +10,7 @@ Females are nearly twice as likely to miss their appointments compared to males.
 Longer waiting periods between scheduling and appointments increase no-show likelihood.
 Patients with scholarships and those who received SMS reminders are more likely to miss appointments.
 
-## Analysis Shortcomings & Data Limitations:
+### Analysis Shortcomings & Data Limitations:
 
 
 Missing information on appointment hours and day types (vacation or working days).
