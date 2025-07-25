@@ -2,7 +2,7 @@
 
 This project investigates the factors influencing no-shows in medical appointments using a dataset of 110,527 medical appointments and 14 associated variables.
 
-## Project Overview
+## Project Overview 
  
 The primary objectives of this analysis are to:
 - Determine the percentage of no-shows.
