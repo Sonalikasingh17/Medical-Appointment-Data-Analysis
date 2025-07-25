@@ -4,7 +4,7 @@ This project investigates the factors influencing no-shows in medical appointmen
 
 ## Project Overview 
    
-The primary objectives of this analysis are to:
+The primary objectives of this analysis are to: 
 - Determine the percentage of no-shows.  
 - Identify important factors that predict whether a patient will show up for their appointment.
 - Analyze the relationship between various attributes (e.g., gender, age, scholarship status) and appointment attendance.
