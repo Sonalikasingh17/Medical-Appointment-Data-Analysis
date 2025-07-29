@@ -11,7 +11,7 @@ The primary objectives of this analysis are to:
 
 ## Dataset
 
-The dataset includes the following variables:
+The dataset includes the following variables: 
 - `PatientId`: Unique identifier for each patient.
 - `AppointmentID`: Unique identifier for each appointment.
 - `Gender`: Gender of the patient.
