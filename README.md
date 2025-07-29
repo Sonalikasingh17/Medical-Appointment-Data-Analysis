@@ -9,7 +9,7 @@ The primary objectives of this analysis are to:
 - Identify important factors that predict whether a patient will show up for their appointment.
 - Analyze the relationship between various attributes (e.g., gender, age, scholarship status) and appointment attendance.
 
-## Dataset
+## Dataset 
 
 The dataset includes the following variables: 
 - `PatientId`: Unique identifier for each patient.
